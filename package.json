@@ -1,0 +1,24 @@
+{
+  "name": "Resturant_List",
+  "version": "1.0.0",
+  "description": "This project is the webside which provided user with searching retaurants in Taipei, and got their basic informations, such as category, rating, address and description, on rataurant page.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muchuanhung/Resturant_List.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muchuanhung/Resturant_List/issues"
+  },
+  "homepage": "https://github.com/muchuanhung/Resturant_List#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4"
+  }
+}
