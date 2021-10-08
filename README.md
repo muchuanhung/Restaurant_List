@@ -1,4 +1,4 @@
-# Restaurants List Project
+# Restaurant List Project
 
 This project is the webside which provided user with searching retaurants in Taipei, and got their basic informations, such as category, rating, address and description, on rataurant page.
 
